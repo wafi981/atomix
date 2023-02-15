@@ -49,7 +49,7 @@ entries:
     name: atomix
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-1.1.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-1.1.0.tgz?raw=trueubun
     version: 1.1.0
   atomix-bench:
   - apiVersion: v2
@@ -69,7 +69,7 @@ entries:
     name: atomix-bench
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-bench-0.7.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-bench-0.7.0.tgz?raw=trueubun
     version: 0.7.0
   atomix-consensus-controller:
   - apiVersion: v2
@@ -90,7 +90,7 @@ entries:
     name: atomix-consensus-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-consensus-controller-1.5.1.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-consensus-controller-1.5.1.tgz?raw=trueubun
     version: 1.5.1
   atomix-controller:
   - apiVersion: v2
@@ -109,7 +109,7 @@ entries:
     name: atomix-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-controller-1.0.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-controller-1.0.0.tgz?raw=trueubun
     version: 1.0.0
   atomix-pod-memory-controller:
   - apiVersion: v2
@@ -129,7 +129,7 @@ entries:
     name: atomix-pod-memory-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-pod-memory-controller-1.0.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-pod-memory-controller-1.0.0.tgz?raw=trueubun
     version: 1.0.0
   atomix-raft-controller:
   - apiVersion: v2
@@ -151,7 +151,7 @@ entries:
     name: atomix-raft-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-raft-controller-0.7.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-raft-controller-0.7.0.tgz?raw=trueubun
     version: 0.7.0
   atomix-raft-storage:
   - apiVersion: v2
@@ -171,7 +171,7 @@ entries:
     name: atomix-raft-storage
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-raft-storage-0.1.26.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-raft-storage-0.1.26.tgz?raw=trueubun
     version: 0.1.26
   atomix-runtime:
   - apiVersion: v2
@@ -208,7 +208,7 @@ entries:
     name: atomix-runtime
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-runtime-0.2.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-runtime-0.2.0.tgz?raw=trueubun
     version: 0.2.0
   atomix-runtime-controller:
   - apiVersion: v2
@@ -227,7 +227,7 @@ entries:
     name: atomix-runtime-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-runtime-controller-1.7.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-runtime-controller-1.7.0.tgz?raw=trueubun
     version: 1.7.0
   atomix-shared-memory-controller:
   - apiVersion: v2
@@ -248,7 +248,7 @@ entries:
     name: atomix-shared-memory-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-shared-memory-controller-1.0.0.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-shared-memory-controller-1.0.0.tgz?raw=trueubun
     version: 1.0.0
   atomix-sidecar-controller:
   - apiVersion: v2
@@ -267,6 +267,6 @@ entries:
     name: atomix-sidecar-controller
     type: application
     urls:
-    - https://github.com/wafi981/atomix.git/docs/atomix-sidecar-controller-1.1.1.tgz
+    - https://github.com/wafi981/atomix/blob/main/docs/atomix-sidecar-controller-1.1.1.tgz?raw=trueubun
     version: 1.1.1
 generated: "2023-02-15T08:41:54.960757146Z"
